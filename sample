@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+```
+<title>Our School Club</title>
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        background-color: #f2f2f2;
+        color: #333;
+    }
+
+    header {
+        background-color: #2d5f8b;
+        color: white;
+        text-align: center;
+        padding: 30px;
+    }
+
+    nav {
+        background-color: #222;
+        text-align: center;
+        padding: 12px;
+    }
+
+    nav a {
+        color: white;
+        text-decoration: none;
+        margin: 15px;
+    }
+
+    section {
+        background-color: white;
+        max-width: 800px;
+        margin: 20px auto;
+        padding: 20px;
+    }
+
+    h2 {
+        color: #2d5f8b;
+    }
+
+    li {
+        margin: 8px;
+    }
+
+    footer {
+        background-color: #222;
+        color: white;
+        text-align: center;
+        padding: 15px;
+        margin-top: 30px;
+    }
+</style>
+```
+
+</head>
+
+<body>
+
+```
+<header>
+    <h1>Our School Club</h1>
+    <p>Welcome to our student website!</p>
+</header>
+
+<nav>
+    <a href="#about">About</a>
+    <a href="#activities">Activities</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+    <h2>About Us</h2>
+
+    <p>
+        Our School Club is a student organization where students
+        can learn new skills, share ideas, and work together.
+    </p>
+
+    <p>
+        We aim to create a friendly environment where students
+        can participate in activities and express their creativity.
+    </p>
+</section>
+
+<section id="activities">
+    <h2>Our Activities</h2>
+
+    <ul>
+        <li>School Projects</li>
+        <li>Group Discussions</li>
+        <li>Creative Activities</li>
+        <li>Community Activities</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Upcoming Event</h2>
+
+    <p>
+        Our club will hold a student activity this month.
+        Members are encouraged to participate and work together.
+    </p>
+</section>
+
+<section id="contact">
+    <h2>Contact Us</h2>
+
+    <p>Email: ourschoolclub@example.com</p>
+    <p>School: Upper Bicutan National High School</p>
+</section>
+
+<footer>
+    <p>Created by Group 8 | Empowerment Technologies</p>
+</footer>
+```
+
+</body>
+</html>
